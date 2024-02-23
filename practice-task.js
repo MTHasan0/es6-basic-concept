@@ -16,9 +16,11 @@ let data = {
                     {school_name: "ABC secondary school"},
                     {location: "St Lorence"}
                 ]
-            },
+            }
         ]
     }
 }
 
+
 console.log(data.Sophia.study[1].secondary[1].location);
+
