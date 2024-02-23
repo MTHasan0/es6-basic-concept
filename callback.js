@@ -10,7 +10,7 @@ function greetings(greetingsHandler, name){
 
 
 function greetingsHandler(name){
-    console.log('Good Morning ');
+    console.log('Good Morning ' + name);
 
 }
 
